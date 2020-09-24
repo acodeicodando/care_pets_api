@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+akira:
+  name: Akira
+  date_of_birth: 2028-01-01
+  pet_type: dog
+
+suzzy:
+  name: Suzzy
+  date_of_birth: 2026-01-01
+  pet_type: dog
+
+funny_cat:
+  name: Funny Cat
+  date_of_birth: 2020-01-01
+  pet_type: cat
+
+pet_other:
+  name: Banana Kong
+  date_of_birth: 2020-01-01
+  pet_type: other
