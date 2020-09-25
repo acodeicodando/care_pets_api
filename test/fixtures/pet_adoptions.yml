@@ -1,16 +1,6 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-adoption_akira:
+pet_adoption_akira:
   pet: akira
-  adopted_by: Rodrigo
-  adopted_at: 2020-01-02
-
-adoption_suzy:
-  pet: suzzy
-  adopted_by: Sirley
-  adopted_at: 2020-01-02
-
-adoption_funny_cat:
-  pet: funny_cat
-  adopted_by: Gisele
-  adopted_at: 2020-01-01
+  adopted_by: Rodrigo Toledo
+  adopted_at: 2004-01-01

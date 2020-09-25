@@ -33,6 +33,7 @@ group :development, :test do
   gem 'guard'
   gem 'guard-bundler'
   gem 'guard-minitest'
+  gem 'guard-rails'
   gem 'simplecov'
   gem 'rails-controller-testing'
 end

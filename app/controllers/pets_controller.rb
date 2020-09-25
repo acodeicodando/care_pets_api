@@ -34,6 +34,7 @@ class PetsController < ApplicationController
   end
 
   def pet_params
+    return {} unless params.key?(:pet)
     params.require(:pet).permit(:id, :name, :date_of_birth, :pet_type)
   end
 end
